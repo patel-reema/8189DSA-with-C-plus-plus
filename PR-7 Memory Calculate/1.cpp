@@ -111,6 +111,8 @@ int main(){
 						cout<<endl<<"-------- STUDENT NOT FOUND --------"<<endl<<endl;
 					}
 				}
+			default:
+				cout<<endl<<"Sorry! its Invalid choice...."<<endl<<endl;
 		}
 	}
 	return 0;
